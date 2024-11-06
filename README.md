@@ -30,7 +30,7 @@ Machine Learning Experiment on Calorie Prediction with Strava API.
 3. **Run the service**:
 
    ```sh
-   python strava-scraping-service.py
+   python strava-scraper-service.py
    ```
 
 ## Resources
