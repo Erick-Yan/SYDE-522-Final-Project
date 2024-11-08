@@ -1,2 +1,2 @@
 .env
-activities.csv
+*.csv
